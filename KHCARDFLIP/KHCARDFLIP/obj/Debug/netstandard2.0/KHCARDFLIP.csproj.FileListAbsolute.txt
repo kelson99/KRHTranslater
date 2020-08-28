@@ -1,0 +1,15 @@
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/bin/Debug/netstandard2.0/KHCARDFLIP.deps.json
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/bin/Debug/netstandard2.0/KHCARDFLIP.dll
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/bin/Debug/netstandard2.0/ref/KHCARDFLIP.dll
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/bin/Debug/netstandard2.0/KHCARDFLIP.pdb
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/KHCARDFLIP.csprojAssemblyReference.cache
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/KHCARDFLIP.AssemblyInfoInputs.cache
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/KHCARDFLIP.AssemblyInfo.cs
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/KHCARDFLIP.csproj.CoreCompileInputs.cache
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/KHCARDFLIP.dll
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/ref/KHCARDFLIP.dll
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/KHCARDFLIP.pdb
+/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP/obj/Debug/netstandard2.0/Kelson_sCardFlip.xaml.g.cs

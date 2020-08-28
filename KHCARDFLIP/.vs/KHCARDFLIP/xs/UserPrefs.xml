@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{83108B85-E998-4695-9EC8-0F829004DC52}|Default">
+  <MonoDevelop.Ide.ItemProperties.KHCARDFLIP.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KHCARDFLIP/MainPage.xaml.cs">
+    <Files>
+      <File FileName="KHCARDFLIP/Kelson_sCardFlip.xaml" Line="28" Column="48" />
+      <File FileName="KHCARDFLIP/Kelson_sCardFlip.xaml.cs" Line="18" Column="50" />
+      <File FileName="KHCARDFLIP/MainPage.xaml" Line="10" Column="34" />
+      <File FileName="KHCARDFLIP/MainPage.xaml.cs" Line="20" Column="63" />
+      <File FileName="KHCARDFLIP/App.xaml" Line="1" Column="1" />
+      <File FileName="KHCARDFLIP/App.xaml.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KHCARDFLIP" expanded="True">
+            <Node name="KHCARDFLIP" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Kelson_sCardFlip.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="KHCARDFLIP.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KHCARDFLIP.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

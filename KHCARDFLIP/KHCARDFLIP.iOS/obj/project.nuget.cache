@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+Pm0WHeRQyTzKMFca5tKq4ud+Gm1ELaqyiVtgqU7SJUetsUewBb0KNbV46EYtj+jM66XQUFYZqug9kFOAn/DQ==",
+  "success": true,
+  "projectFilePath": "/Users/kelson99hartle/Projects/Participation3/KRHTranslater/KHCARDFLIP/KHCARDFLIP.iOS/KHCARDFLIP.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kelson99hartle/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/kelson99hartle/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

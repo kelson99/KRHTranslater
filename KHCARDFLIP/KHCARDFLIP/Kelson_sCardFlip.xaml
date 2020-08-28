@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="KHCARDFLIP.Kelson_sCardFlip" Title="My Deck">
+    <Grid
+        BackgroundColor="DarkGray"
+        Padding="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="AceFrontCardImage"
+               Source="Ace_Spades.jpg"
+               HeightRequest="200"
+               Grid.Row="0"
+               />
+        <Image x:Name="AceBackCardImage"
+               Source="Backface_Blue.jpg"
+               HeightRequest="200"
+               Grid.Row="0"
+               />
+        <Button x:Name="ButtonFlipCard"
+                Text="Show Card Face"
+                TextColor="White"
+                FontAttributes="Bold"
+                BackgroundColor="Black"
+                Grid.Row="1"
+                HeightRequest="40"
+                VerticalOptions="Center"
+                Clicked="ButtonFlipCard_Clicked"
+                />
+
+    </Grid>
+</ContentPage>
